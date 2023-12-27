@@ -18,9 +18,4 @@ The Flipkart Product Sentiment Analysis project aims to analyze customer sentime
 - Python (3.x)
 - Jupyter Notebook or any preferred Python environment
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/flipkart-sentiment-analysis.git
+###Dataset : https://www.kaggle.com/datasets/mansithummar67/flipkart-product-review-dataset
