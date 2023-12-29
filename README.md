@@ -1,4 +1,5 @@
 # Flipkart Product Sentiment Analysis
+![Team !](IMG_7579.PNG)
 
 ## Introduction
 
