@@ -11,11 +11,12 @@ The Flipkart Product Sentiment Analysis project aims to analyze customer sentime
 - **Visualizations**: Present sentiment distribution through visualizations like bar charts and word clouds.
 - **Product Categorization**: Optionally categorize products based on sentiment patterns for better understanding.
 
-## Getting Started
-
+## Models
+I use Multiomial and Textblob library !
 ### Prerequisites
 
 - Python (3.x)
 - Jupyter Notebook or any preferred Python environment
 
-###Dataset : https://www.kaggle.com/datasets/mansithummar67/flipkart-product-review-dataset
+### Dataset
+https://www.kaggle.com/datasets/mansithummar67/flipkart-product-review-dataset
